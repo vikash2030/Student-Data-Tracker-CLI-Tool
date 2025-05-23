@@ -13,4 +13,4 @@ Features:
 
 Usage:
 Run this script with Python 3.x:
-  python student_records_manager.py
+  - python student_records_manager.py
